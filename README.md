@@ -30,7 +30,7 @@ The input parameters can be changed according to the medium setup.
 The code generates a data file in the data directory with the naming convention as a_height_disksize_defpar.dat. The file contains the following columns:  
 
 rDisk: radial coordinate of the photons hitting the accretion disk  
-EM: emissivity profile as a function of radial coordinate along the disk
+EM: emissivity profile as a function of radial coordinate along the disk  
 III: intensity at the given radial points on the accretion disk  
 
 ## Dependencies
