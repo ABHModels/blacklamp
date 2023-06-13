@@ -32,6 +32,8 @@ The code generates a data file in the data directory with the name lp_a_height_m
 
 rDisk: radial coordinate of the photons hitting the accretion disk  
 III: Intensity at the given radial points on the accretion disk  
+    
+The output file can have more columns which are currently commented in the code:    
 ED: emission angle of the photons at the emission point on the source  
 HD: incident angle of the photons when they hit the accretion disk  
 
@@ -45,6 +47,8 @@ rk45.h: header file for implementing the Runge-Kutta method for the differential
 ## Notes
 
 * The code uses the RK45 method to integrate the differential equations, and it requires the definition of the cache function in the johannsen.h header file. The cache function is used to store the metric and its derivatives for each point in the trajectory of the photon.
+
+* The code is capable of performing the calculation in non-Kerr spacetime as well. The user can make the changes in the value of the deformation paramters within the code. The deformation paramter can also be very easily be set as an input paramter.
 
 * The output file can be used to construct a .fits file using the generatefits.py script. The .fits file can then be used in the relxilllp_nk model for relativistic reflection in the lamppost geometry.  
 
