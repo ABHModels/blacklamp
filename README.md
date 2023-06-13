@@ -14,7 +14,7 @@ When using blacklamp for your work, please cite the following the following pape
 
 ## How to Run
 
-In the standard from, the main.cpp file takes three input arguments:
+In the standard from, the main.cpp file takes two input arguments:
 
         ./main a defpar 
 
