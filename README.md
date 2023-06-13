@@ -16,13 +16,12 @@ When using blacklamp for your work, please cite the following the following pape
 
 In the standard from, the main.cpp file takes three input arguments:
 
-        ./main a height mdot
+        ./main a defpar 
 
 where:
 
 _a_ is the spin parameter  
-_height_ is the height of the source  
-_mdot_ is the accretion rate of the black hole  
+_defpar_ is the deformation parameter which by default is _alpha_13_ of Johannsen metric 
 
 The input parameters can be changed according to the medium setup.
 
