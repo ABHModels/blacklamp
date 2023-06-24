@@ -6,7 +6,7 @@ This C++ code calculates the intensity profile of the irradiation of the accreti
   
 When using blacklamp for your work, please cite the following the following papers:
 * _Public Release of RELXILL_NK: A Relativistic Reflection Model for Testing Einstein’s Gravity_; A. B. Abdikamalov, D. Ayzenberg, C. Bambi, T. Dauser, J. A. Garcia et al.; [Astrophys.J. 878 (2019) 2, 91](https://doi.org/10.3847/1538-4357/ab1f89)
-* _Reflection Spectra of Accretion Disks Illuminated by Disk-like Coronae_; S. Riaz, A. B. Abdikamalov, D. Ayzenberg, C. Bambi, H. Wang et al., [AAstrophys.J. 925 (2022) 1, 51](https://doi.org/10.3847/1538-4357/ac3827)
+* _Reflection Spectra of Accretion Disks Illuminated by Disk-like Coronae_; S. Riaz, A. B. Abdikamalov, D. Ayzenberg, C. Bambi, H. Wang et al., [Astrophys.J. 925 (2022) 1, 51](https://doi.org/10.3847/1538-4357/ac3827)
   
 ## How to download
 
