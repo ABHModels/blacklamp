@@ -3,8 +3,10 @@
 ## Intensity Profile of Accretion Disk in Lamppost Coronal Geometry
 
 This C++ code calculates the intensity profile of the irradiation of the accretion disk by a point-like source located on the rotational axis of the black hole in the lamppost geometry. The generated data files can be used to tabulate and structure them into the file in .fits format using another script. The created .fits file can be used in the model relxilllp_nk, a relativistic reflection model in the lamppost geometry.  
+
+Cite the code: [![DOI](https://zenodo.org/badge/652944013.svg)](https://zenodo.org/doi/10.5281/zenodo.10673756)
   
-When using blacklamp for your work, please cite the following the following papers:
+When using blacklamp for your work, we also request to please cite the following papers:
 * _Public Release of RELXILL_NK: A Relativistic Reflection Model for Testing Einstein’s Gravity_; A. B. Abdikamalov, D. Ayzenberg, C. Bambi, T. Dauser, J. A. Garcia et al.; [Astrophys.J. 878 (2019) 2, 91](https://doi.org/10.3847/1538-4357/ab1f89)
 * _Reflection Spectra of Accretion Disks Illuminated by Disk-like Coronae_; S. Riaz, A. B. Abdikamalov, D. Ayzenberg, C. Bambi, H. Wang et al., [Astrophys.J. 925 (2022) 1, 51](https://doi.org/10.3847/1538-4357/ac3827)
 
